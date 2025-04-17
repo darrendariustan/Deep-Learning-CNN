@@ -1,0 +1,7 @@
+# Example requirements.txt
+# Add your project dependencies here
+numpy
+pandas
+matplotlib
+torch
+torchvision
